@@ -1,0 +1,11 @@
+C:\Users\L E N O V O\source\repos\p6-6-1214053\p6-6-1214053\bin\Debug\p6-6-1214053.exe.config
+C:\Users\L E N O V O\source\repos\p6-6-1214053\p6-6-1214053\bin\Debug\p6-6-1214053.exe
+C:\Users\L E N O V O\source\repos\p6-6-1214053\p6-6-1214053\bin\Debug\p6-6-1214053.pdb
+C:\Users\L E N O V O\source\repos\p6-6-1214053\p6-6-1214053\obj\Debug\p6-6-1214053.csproj.AssemblyReference.cache
+C:\Users\L E N O V O\source\repos\p6-6-1214053\p6-6-1214053\obj\Debug\p6-6-1214053.csproj.SuggestedBindingRedirects.cache
+C:\Users\L E N O V O\source\repos\p6-6-1214053\p6-6-1214053\obj\Debug\p6_6_1214053.Form1.resources
+C:\Users\L E N O V O\source\repos\p6-6-1214053\p6-6-1214053\obj\Debug\p6_6_1214053.Properties.Resources.resources
+C:\Users\L E N O V O\source\repos\p6-6-1214053\p6-6-1214053\obj\Debug\p6-6-1214053.csproj.GenerateResource.cache
+C:\Users\L E N O V O\source\repos\p6-6-1214053\p6-6-1214053\obj\Debug\p6-6-1214053.csproj.CoreCompileInputs.cache
+C:\Users\L E N O V O\source\repos\p6-6-1214053\p6-6-1214053\obj\Debug\p6-6-1214053.exe
+C:\Users\L E N O V O\source\repos\p6-6-1214053\p6-6-1214053\obj\Debug\p6-6-1214053.pdb
